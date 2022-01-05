@@ -1,0 +1,10 @@
+/.gradle/
+/.settings/
+.idea/
+build/
+target/
+*.iml
+/bin/
+/docs/
+/images/
+/LocaleTransformer
